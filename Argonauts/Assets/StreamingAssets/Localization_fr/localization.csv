@@ -1,0 +1,446 @@
+ID,FR
+title_take_food,Nourriture
+task_take_food,Obtenir de la nourriture
+,
+title_take_wood,Bois
+task_take_wood,Obtenir du bois
+,
+title_take_stone,Pierres
+task_take_stone,Obtenir des pierres
+,
+title_take_gold,Or
+task_take_gold,Obtenir de l'or
+,
+title_take_bush,Buisson
+task_take_bush,Obtenir de la nourriture
+,
+,
+title_break_obst_wood01,Petit obstacle
+task_break_obst_wood01,Éliminer l'obstacle
+,
+title_break_obst_wood02,Obstacle
+task_break_obst_wood02,Éliminer l'obstacle
+,
+title_break_obst_wood03,Gros obstacle
+task_break_obst_wood03,Éliminer l'obstacle
+,
+title_break_obst_stone01,Petit rocher
+task_break_obst_stone01,Éliminer le rocher
+,
+title_break_obst_stone02,Rocher
+task_break_obst_stone02,Éliminer le rocher
+,
+title_break_obst_stone03,Gros rocher
+task_break_obst_stone03,Éliminer le rocher
+,
+title_break_obst_swamp01,Marécage
+task_break_obst_swamp01,Construire un pont
+,
+title_break_obst_sand01,Dune
+task_break_obst_sand01,Éliminer la dune
+,
+title_break_obst_bush01,Buisson desséché
+task_break_obst_bush01,Éliminer le buisson
+,
+title_break_obst_hole01,Petite fosse
+task_break_obst_hole01,Éliminer la fosse
+,
+title_break_obst_hole02,Grosse fosse
+task_break_obst_hole02,Éliminer la fosse
+,
+title_break_obst_bigstone,Bloc
+task_break_obst_bigstone,Éliminer le bloc
+,
+,
+title_build_bridge01,Pont en bois
+task_build_bridge01,Réparer le pont
+,
+title_build_bridge02,Pont
+task_build_bridge02,Réparer le pont
+,
+title_build_bridge03,Pont en pierre
+task_build_bridge03,Réparer le pont
+,
+,
+title_build_farm01,Ferme de niveau 1
+task_build_farm01,Construire une ferme de niveau 1
+,
+title_build_farm02,Ferme de niveau 2
+task_build_farm02,Construire une ferme de niveau 2
+,
+title_build_farm03,Ferme de niveau 3
+task_build_farm03,Construire une ferme de niveau 3
+,
+,
+title_build_sawmill01,Scierie de niveau 1
+task_build_sawmill01,Construire une scierie de niveau 1
+,
+title_build_sawmill02,Scierie de niveau 2
+task_build_sawmill02,Construire une scierie de niveau 2
+,
+title_build_sawmill03,Scierie de niveau 3
+task_build_sawmill03,Construire une scierie de niveau 3
+,
+,
+title_build_quarry01,Carrière de niveau 1
+task_build_quarry01,Construire une carrière de niveau 1
+,
+title_build_quarry02,Carrière de niveau 2
+task_build_quarry02,Construire une carrière de niveau 2
+,
+title_build_quarry03,Carrière de niveau 3
+task_build_quarry03,Construire une carrière de niveau 3
+,
+,
+title_build_goldmine01,Mine d'or de niveau 1
+task_build_goldmine01,Construire une mine d'or de niveau 1
+,
+title_build_goldmine02,Mine d'or de niveau 2
+task_build_goldmine02,Construire une mine d'or de niveau 2
+,
+title_build_goldmine03,Mine d'or de niveau 3
+task_build_goldmine03,Construire une mine d'or de niveau 3
+,
+,
+title_build_tent01,Tente
+task_build_tent01,Construire une tente de niveau 2
+,
+title_build_tent02,Tente
+task_build_tent02,Construire une tente de niveau 3
+,
+,
+title_kill_cyclop,Cyclope
+task_kill_cyclop,Vaincre le cyclope
+,
+title_kill_minotaur,Minotaure
+task_kill_minotaur,Vaincre le minotaure
+,
+title_break_trap01,Piège
+task_break_trap01,Détruire le piège
+,
+title_take_papirus,Papyrus
+task_take_papirus,Obtenir le papyrus
+,
+title_use_switch01,Levier
+task_use_switch01,Basculer le levier
+,
+title_take_tooth,Dent
+task_take_tooth,Obtenir la dent
+,
+title_kill_ghost,Fantôme
+task_kill_ghost,Vaincre le fantôme
+,
+title_build_portal,Portail
+task_build_portal,Activer le portail
+,
+title_grow_bush,Buisson
+task_grow_bush,Faire pousser le buisson
+,
+title_build_torch01,Torche
+task_build_torch01,Allumer la torche
+,
+title_take_key,Clé
+task_take_key,Obtenir la clé
+,
+title_break_barricade,Barricade
+task_break_barricade,Éliminer la barricade
+,
+title_break_trap02,Piège
+task_break_trap02,Libérer Médée
+,
+title_break_friks_home01,Demeure de Phrixos
+task_break_friks_home01,Prendre d'assaut la demeure
+,
+title_call_dragon_home01,Demeure du dragon
+task_call_dragon_home01,Sonner la cloche
+,
+title_trade_marketplace01,Marché
+task_trade_marketplace01,Échanger des ressources
+,
+title_trade_marketplace02,Marché
+task_trade_marketplace02,Échanger des ressources
+,
+title_trade_marketplace03,Marché
+task_trade_marketplace03,Échanger des ressources
+,
+title_build_port,Port
+task_build_port,Construire le port
+,
+title_build_altar,Autel
+task_build_altar,Activer l'autel
+,
+title_take_altar,Autel
+task_take_altar,Utiliser l'autel
+,
+title_build_oracle_tower01,Tour de l'oracle
+task_build_oracle_tower01,Réparer la tour de l'oracle
+,
+title_build_oracle_tower02,Tour de l'oracle
+task_build_oracle_tower02,Réparer la tour de l'oracle
+,
+title_build_peliashouse,Demeure de Pélias
+task_build_peliashouse,Atteindre la demeure de Pélias
+,
+title_build_portalbig01,Grand portail
+task_build_portalbig01,Réparer le grand portail
+,
+title_build_portalbig02,Grand portail
+task_build_portalbig02,Réparer le grand portail
+,
+title_take_gem01,Cristal
+task_take_gem01,Prendre le cristal
+,
+title_call_house,Maison
+task_call_house,Sonner la cloche
+,
+menu_btn_play,Jouer
+menu_btn_credits,Crédits
+menu_btn_exit,Quitter
+menu_btn_settings,Paramètres
+menu_btn_change_player,Changer de joueur
+menu_extras_btn,EXTRAS
+menu_extras_concepts,Art conceptuel
+menu_extras_soundtrack,Musique
+menu_extras_levels,Campagne supplémentaire
+menu_lbl_welcome,"Bienvenue, {0}"
+menu_lbl_player_name_title,Taper le nom du joueur
+menu_lbl_player_name_placeholder,Taper ici...
+menu_lbl_player_change_title,Changer de joueur
+menu_lbl_remove_player_warning,Voulez-vous vraiment supprimer le joueur ?
+menu_lbl_player_exist,Le nom du joueur existe déjà !
+menu_lbl_player_name_empty,Le nom du joueur est vide !
+menu_lbl_cant_remove_last_player,Vous ne pouvez pas supprimer le dernier joueur !
+menu_lbl_confirm_exit,Voulez-vous vraiment arrêter ?
+menu_lbl_warning_build_broken,Certains fichiers sont corrompus.<br>Le jeu risque de ne pas fonctionner.<br>Veuillez le réinstaller.
+,
+mode_title,Sélectionnez le mode de jeu. <br> (Vous pouvez changer le mode de jeu à tout moment).
+mode_untimed_title,PAS LE TEMPS
+mode_normal_title,ORDINAIRE
+mode_hard_title,DIFFICILE
+,
+menu_lbl_credits,Crédits
+menu_lbl_credits1,Anton Argunov
+menu_lbl_credits2,Arthur Klopov
+menu_lbl_credits3,Yaroslav Pankratov
+menu_lbl_credits4,Victoria Sadovskaya
+menu_lbl_credits5,Siarhei Rydkin
+menu_lbl_credits6,Yulia Rydkina
+menu_lbl_credits7,Rodion Kadulin
+,
+map_only_for_ce,Seulement pour l'édition collector.
+,
+gui_btn_cancel,Annuler
+gui_btn_create,Créer
+gui_btn_ok,OK
+gui_btn_yes,Oui
+gui_btn_no,Non
+gui_btn_continue,Continuer
+gui_btn_restart,Recommencer
+gui_btn_replay,Revoir
+gui_btn_settings,Paramètres
+gui_btn_map,Carte
+gui_btn_menu,Menu
+gui_lbl_music_volume,Volume musique
+gui_lbl_sound_volume,Volume son
+gui_lbl_hints,Indices
+gui_lbl_fullscreen,Plein écran
+gui_lbl_system_cursor,Curseur système
+gui_lbl_settings,Paramètres
+gui_lbl_loading,Chargement...
+gui_lbl_pause,Pause
+gui_lbl_restart_request,Voulez-vous vraiment recommencer ?
+gui_lbl_go_map_request,Voulez-vous vraiment retourner à la carte ?
+gui_lbl_go_menu_request,Voulez-vous vraiment retourner au menu ?
+gui_lbl_start_level_tip,Appuyer pour commencer
+gui_lbl_level_number,Niveau {0}
+gui_lbl_finish_panel_title,Excellent
+gui_lbl_time,Temps
+gui_lbl_best_time,Meilleur temps
+gui_lbl_need_resources,Nécessaire :
+gui_lbl_income_resources,Donne :
+gui_lbl_not_enough_resources,Pas de ressources
+gui_lbl_score,Résultat
+gui_lbl_best_score,Meilleur résultat
+gui_lbl_demo,Merci d'avoir joué à la version de démonstration
+gui_lbl_campaign_locked,Campagne supplémentaire peut être déverrouillé à la fin du match.
+gui_app_version,Version:
+,
+award_builder_1_name,Apprenti
+award_builder_1_desc,Construire {0} bâtiments
+award_builder_2_name,Bâtisseur
+award_builder_2_desc,Construire {0} bâtiments
+award_builder_3_name,Architecte
+award_builder_3_desc,Construire {0} bâtiments
+,
+award_collector_1_name,Collectionneur
+award_collector_1_desc,Obtenir tous les trophées
+,
+award_food_1_name,Récolteur
+award_food_1_desc,Obtenir {0} unités de nourriture
+award_food_2_name,Fermier
+award_food_2_desc,Obtenir {0} unités de nourriture
+award_food_3_name,Planteur
+award_food_3_desc,Obtenir {0} unités de nourriture
+,
+award_gold_1_name,Chercheur d'or
+award_gold_1_desc,Obtenir {0} unités d'or
+award_gold_2_name,Prospecteur
+award_gold_2_desc,Obtenir {0} unités d'or
+award_gold_3_name,Mineur
+award_gold_3_desc,Obtenir {0} unités d'or
+,
+award_obstacles_1_name,Nettoyeur
+award_obstacles_1_desc,Éliminer {0} obstacles
+award_obstacles_2_name,Nettoyeur talentueux
+award_obstacles_2_desc,Éliminer {0} obstacles
+award_obstacles_3_name,Excellent nettoyeur
+award_obstacles_3_desc,Éliminer {0} obstacles
+,
+award_reader_1_name,Lecteur
+award_reader_1_desc,Lire toutes les bandes dessinées
+,
+award_stars_1_name,Élève
+award_stars_1_desc,Finir {0} niveaux avec 3 étoiles
+award_stars_2_name,Maître
+award_stars_2_desc,Finir {0} niveaux avec 3 étoiles
+award_stars_3_name,Expert
+award_stars_3_desc,Finis TOUS les niveaux avec 3 étoiles
+,
+award_stone_1_name,Tailleur de pierre
+award_stone_1_desc,Obtenir {0} unités de pierres
+award_stone_2_name,Tailleur de pierre expérimenté
+award_stone_2_desc,Obtenir {0} unités de pierres
+award_stone_3_name,Maître tailleur de pierre
+award_stone_3_desc,Obtenir {0} unités de pierres
+,
+award_trader_1_name,Troqueur
+award_trader_1_desc,Effectuer {0} transactions au marché
+award_trader_2_name,Négociant
+award_trader_2_desc,Effectuer {0} transactions au marché
+award_trader_3_name,Marchand
+award_trader_3_desc,Effectuer {0} transactions au marché
+,
+award_victory_1_name,Recrue
+award_victory_1_desc,Vaincre {0} ennemis
+award_victory_2_name,Valeureux guerrier
+award_victory_2_desc,Vaincre {0} ennemis
+award_victory_3_name,Général intrépide
+award_victory_3_desc,Vaincre {0} ennemis
+,
+award_wood_1_name,Bûcheron
+award_wood_1_desc,Obtenir {0} unités de bois
+award_wood_2_name,Bûcheron talentueux
+award_wood_2_desc,Obtenir {0} unités de bois
+award_wood_3_name,Maître bûcheron
+award_wood_3_desc,Obtenir {0} unités de bois
+,
+,
+hint_1_1,Obtenir de la nourriture
+hint_1_2,Éliminer l'obstacle
+hint_1_3,Obtenir de la nourriture et du bois
+hint_1_4,Réparer le pont
+hint_1_5,Obtenir de l'or et éliminer le buisson
+,
+hint_2_1,Trouver de la nourriture dans le buisson
+hint_2_2,Vous devriez construire une ferme<br>pour produire de la nourriture
+hint_2_3,Vous devriez construire une scierie<br>pour produire du bois
+hint_2_4,Il est temps de construire une tente<br>pour augmenter le nombre d'ouvriers disponibles
+hint_2_5,Vous devriez construire une carrière<br>pour y extraire des pierres
+hint_2_6,Vous devriez construire une mine d'or<br>pour y extraire de l'or
+,
+hint_3_1,Il est temps de construire une tente<br>pour augmenter le nombre d'ouvriers disponibles
+,
+hint_4_1,"Si vous activez le bonus, vos personnages<br>avanceront 2x plus vite !"
+,
+hint_6_1,Le marché est ouvert !<br>Vous pouvez y troquer des ressources !
+,
+hint_10_1,Le pont atteint l'autre côté !<br>Un nouveau chemin s'ouvre à vous !
+,
+hint_11_1,"Si vous activez le bonus, vos personnages<br>feront tout 2x plus vite !"
+,
+hint_12_1,L'autel restaure tous vos bonus !
+,
+hint_17_1,"Si vous activez le bonus, vos ouvriers<br>obtiendront+1 ressource !"
+,
+hint_21_1,Vous avez activé un portail !<br>Un nouveau chemin s'ouvre à vous !
+,
+hint_31_1,Allumez des torches pour illuminer la grotte !
+,
+,
+cutscene_1_1,"C'était une matinée normale à l'agence des Argonautes, il ne se passait rien d'extraordinaire. Jason et Médée calculaient ce qu'ils avaient gagné cette semaine-là, quand soudain, la porte s'est ouverte violemment. Un homme portant autant de bandelettes qu'une momie égyptienne a fait irruption. Un nuage miniature flottait au-dessus de la tête du visiteur trempé."
+cutscene_1_2,"Il s'agissait de Pélias, un collectionneur bien connu en ville. Il était aussi l'oncle de Médée. Il a supplié nos amis de l'aider après les avoir traînés jusqu'à son manoir."
+cutscene_1_3,"Sur le chemin menant au manoir, Pélias a expliqué qu'en nettoyant sa remise, il avait fait tomber une boîte. C'est alors que les ennuis ont commencé. Jason et Médée ont pu s'en rendre compte en arrivant sur place. Une tempête de neige faisait rage d'un côté de la maison, tandis que l'autre était en proie à un orage. Le manoir avait été partiellement détruit par une pluie de météorites."
+cutscene_1_4,"Après avoir difficilement traversé la remise, Jason et Médée ont examiné la boîte que Pélias avait fait tomber. Sur l'étiquette, on pouvait lire : ""Boîte de Pandore. NE PAS OUVRIR !"" Désormais, ils savaient d'où venaient les problèmes de Pélias."
+cutscene_1_5,"Après une discussion, nos héros ont décidé de consulter l'oracle afin de savoir comment renvoyer cette malédiction dans la boîte de Pandore et refermer cette dernière."
+,
+cutscene_2_1,"Jason et Médée ont enfin atteint la demeure de l'oracle. Au premier abord, ce vieil homme et sa tour en ruine ne laissaient pas présager que l'oracle se tenait devant eux. Mais nos héros n'avaient pas le choix. Ils ont parlé de la boîte de Pandore ouverte et des malheurs de Pélias à l'oracle."
+cutscene_2_2,"D'après l'oracle, pour que la malédiction retourne dans la boîte de Pandore, de nombreuses bonnes actions seraient nécessaires. L'oracle a eu la bonté de leur donner une liste de bonnes actions, à commencer par ""Réparer la tour de l'oracle"". Nos héros se sont retroussés les manches et se sont mis au travail."
+,
+cutscene_3_1,"Comme Jason et Médée s'en doutaient, la liste des bonnes actions n'avait rien à voir avec la boîte de Pandore. Le vieil homme voulait juste profiter d'eux. Mais l'oracle a calmé nos amis en colère. Il leur a expliqué que la boîte de Pandore ne pouvait pas être refermée, et que les ennuis suivaient son propriétaire. Il suffisait donc d'envoyer la boîte au royaume d'Aid, où elle ne causerait de tort à personne."
+cutscene_3_2,"L'oracle a expliqué à nos amis comment atteindre l'entrée du royaume d'Aid. Elle se trouvait dans des grottes, au fin fond des montagnes. Pour y envoyer la boîte de Pandore, deux portails devaient être construits : l'un d'eux à l'entrée du royaume d'Aid, l'autre, dans la demeure de Pélias. Pour ces portails, des cristaux étaient nécessaires... Ça semblait si simple..."
+,
+cutscene_4_1,"Jason et Médée ont fini par atteindre l'entrée des grottes. Ils ont entendu les voix d'ombres et de fantômes leur promettant de terribles souffrances. À un moment donné, nos héros ont failli rebrousser chemin, mais ils ont surmonté leur peur et sont repartis de l'avant !"
+,
+cutscene_5_1,"Une fois sortis des grottes, de l'autre côté de la montagne, nos héros sont rentrés chez eux pour installer le portail dans la demeure de Pélias. Apparemment, la boîte de Pandore causait de plus en plus de problèmes. Lors du voyage de nos amis, une sécheresse s'est abattue. Les plaines fertiles se sont transformées en déserts. Des hordes de monstres s'y sont installées. Elles étaient de plus en plus proches de la demeure de Pélias."
+,
+cutscene_6_1,La boîte de Pandore essayait d'éviter le voyage menant au royaume d'Aid. Les éléments se sont déchaînés contre Jason. Le vent s'est mis à hurler et a tenté de renverser notre héros. La pluie s'est abattue sur son visage afin de l'empêcher de voir où il mettait les pieds. Mais Jason est parvenu à atteindre le portail.
+cutscene_6_2,"Ça a marché ! Jason a lancé la boîte de Pandore dans le portail ! À ce moment précis, tous les monstres ont disparu, le nuage flottant au-dessus de la tête de Pélias s'est évanoui, et toutes les anomalies météorologiques se sont dissipées. Le silence tant attendu a fini par revenir..."
+cutscene_6_3,"Durant ces événements malheureux, les membres de la famille de Pélias ont été éparpillés dans les environs. Ils ne pouvaient pas rentrer à cause des monstres errant dans la plaine. Pélias a demandé à nos héros de trouver et de ramener les membres de sa famille. Nos amis ont accepté, bien entendu."
+,
+cutscene_7_1,Jason et Médée ont ramené les membres de la famille de Pélias chez eux. Ils se sont empressés de réparer le manoir. La paix et le calme ont fini par revenir...
+cutscene_7_2,"Mais qu'est-ce que c'est ? Une nouvelle boîte est arrivée chez Pélias ! Sans attendre, les membres de sa famille ont fui. Nos amis se sont écriés : ""Quoi ? Ça recommence ?"""
+,
+appname_premium,Argonauts Agency: Pandora's Box
+appname_premium_ce,Argonauts Agency: Pandora's Box Edition collector
+appname_freemium,Argonauts Agency: Pandora's Box Free
+,
+screenshots_img_01_menu,Fermez la boîte de Pandore !
+screenshots_img_02_map,60 niveaux variés et amusants !
+screenshots_img_03_world01,"Obtenez des ressources, surmontez des obstacles et effectuez des tâches sympa !"
+screenshots_img_04_world02,Visitez toutes les îles !
+screenshots_img_05_world03,Triomphez des pics des montagnes !
+screenshots_img_06_world04,Explorez des grottes mystérieuses !
+screenshots_img_07_world05,Découvrez les merveilles du désert !
+screenshots_img_08_trophies,Gagnez des prix en terminant les niveaux !
+,
+marketing_txt_5,Fermez la boîte de Pandore !
+marketing_txt_60,Agence des Argonautes – fermez la boîte de Pandore !
+marketing_txt_80,Agence des Argonautes – vivez des aventures fantastiques grâce à la boîte de Pandore !
+marketing_txt_125,Agence des Argonautes – le chaos règne à cause de la boîte de Pandore ! Vous seul pouvez empêcher l'apocalypse !
+,
+marketing_txt_4000,"Par une belle matinée ensoleillée, un événement incroyable s'est produit à l'agence des Argonautes. Un collectionneur célèbre a fait irruption. Il avait besoin d'aide pour résoudre un problème causé par un de ses artefacts. Pélias avait accidentellement ouvert la boîte de Pandore dans sa remise. Un cataclysme prenait forme au-dessus de sa maison. Pélias était confronté à des ennuis insurmontables. Il fallait agir immédiatement !
+
+Rejoignez les Argonautes et aidez-les à éliminer la boîte de Pandore !
+
+- des dizaines de niveaux passionnants
+- intrigue sympa, bandes dessinées amusantes, personnages mémorables
+
+- nombreuses quêtes différentes
+- gameplay envoûtant
+- graphismes sublimes et hauts en couleur
+- musique relaxante"
+,
+game_bonus_charactermovespeed,Accélérer les personnages de 10 %
+game_bonus_characterworkspeed,Accélérer le travail des personnages de 10 %
+game_bonus_buildscost,Les bâtiments coûtent 25 % moins cher
+game_bonus_twoworkers,2 ouvriers à la fois dans la tente
+game_bonus_market,Le marché fournit 1 ressource supplémentaire
+game_bonus_enemycost,Les monstres coûtent 25 % moins cher
+game_bonus_levelbonuscooldown,Recharge de bonus 10 % plus rapide
+game_bonus_levelbonusduration,Les bonus durent 10 % plus longtemps
+game_bonus_panel_title,Devinez où se trouve le prix !
+game_bonus_hint01,Récoltez le prix !
+game_bonus_hint02,Voici vos bonus temporaires. Ils disparaissent au fil du temps. Les bonus seront activés lors des niveaux.
+,
+,
+map_btn_our_games,Nos jeux
+shop_txt_title,DÉBLOQUER LE NIVEAU
+shop_txt_body_watch,Afficher une annonce pour déverrouiller un niveau ({0}/{1})
+shop_txt_body_unlock,Débloquez tous les niveaux {0}
+shop_txt_body_restore,Restaurer les achats
+windowrate_txt_header,Notez-nous !
+windowrate_txt_description,Vous aimez ce jeu ? Dites-le en nous donnant 5 étoiles
+windowrate_btn_under5stars,1-4 étoiles
+windowrate_btn_5stars,5 étoiles
+windowrecall_txt_header,Commentaires
+windowrecall_btn_send,Envoyer

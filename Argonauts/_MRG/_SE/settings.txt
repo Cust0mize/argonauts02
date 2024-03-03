@@ -1,0 +1,13 @@
+launch_type=3
+cheats=0
+trophies=1
+all_levels=0
+language=en
+copyright=Copyright © 2018 MyRealGames.com, "Workroom7 LLC"
+MPC_build=0
+FGP_build=0
+MRG_build=1
+GT_build=0
+FGD_build=0
+bfg_survey=0
+bfg_collector=0

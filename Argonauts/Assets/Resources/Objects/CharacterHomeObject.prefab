@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1714738472305618}
+  m_IsPrefabAsset: 1
+--- !u!1 &1032657912299774
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4739087966399012}
+  m_Layer: 0
+  m_Name: WorkPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1714738472305618
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4324571872017244}
+  - component: {fileID: 114895191906702080}
+  - component: {fileID: 210880044336385428}
+  m_Layer: 0
+  m_Name: CharacterHomeObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4324571872017244
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1714738472305618}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4739087966399012}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4739087966399012
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1032657912299774}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4324571872017244}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114895191906702080
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1714738472305618}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94428fcfa10e14095a9646e82e2c55c6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  LayerObject:
+    Name: 
+    PointIDs: []
+    Position: {x: 0, y: 0}
+    Path: 
+    Flip: 0
+    SpecialPointsID: []
+    JoinObjectsIDs: []
+  RequiredResources: []
+  ActionStage: 0
+  flagprefab: {fileID: 1034769838855050, guid: db4c309d3a91f3547a908589ae426e47, type: 2}
+  checkmarkprefab: {fileID: 1214486290992296, guid: a24849816385b2d478e0c5ace026f95e,
+    type: 2}
+  workbarprefab: {fileID: 1637833770325336, guid: db9d3add03b24f244b209ccde341119f,
+    type: 2}
+  objKey: 
+  workPointsForeverFree: 0
+  effectUsePrefab: {fileID: 0}
+  effectOnEndUse: {fileID: 0}
+  Clickable: 1
+  Node:
+    Position: {x: 0, y: 0}
+    IsFree: 0
+  Available: 0
+  CanPing: 0
+  WorkPoints:
+  - {fileID: 1032657912299774}
+  OccupiedPoints: []
+--- !u!210 &210880044336385428
+SortingGroup:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1714738472305618}
+  m_Enabled: 1
+  m_SortingLayerID: 986333103
+  m_SortingLayer: -1
+  m_SortingOrder: 0

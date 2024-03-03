@@ -1,0 +1,445 @@
+ID,EN
+title_take_food,Food
+task_take_food,Collect food
+,
+title_take_wood,Wood
+task_take_wood,Collect wood
+,
+title_take_stone,Stone
+task_take_stone,Collect stone
+,
+title_take_gold,Gold
+task_take_gold,Collect gold
+,
+title_take_bush,Bush
+task_take_bush,Collect food
+,
+,
+title_break_obst_wood01,Small blockage
+task_break_obst_wood01,Clear the blockage
+,
+title_break_obst_wood02,Blockage
+task_break_obst_wood02,Clear the blockage
+,
+title_break_obst_wood03,Big blockage
+task_break_obst_wood03,Clear the blockage
+,
+title_break_obst_stone01,Small rock
+task_break_obst_stone01,Break the rock
+,
+title_break_obst_stone02,Rock
+task_break_obst_stone02,Break the rock
+,
+title_break_obst_stone03,Big rock
+task_break_obst_stone03,Break the rock
+,
+title_break_obst_swamp01,Swamp
+task_break_obst_swamp01,Build a bridge
+,
+title_break_obst_sand01,Dune
+task_break_obst_sand01,Clear the dune
+,
+title_break_obst_bush01,Dry bush
+task_break_obst_bush01,Remove the bush
+,
+title_break_obst_hole01,Small pit
+task_break_obst_hole01,Remove the pit
+,
+title_break_obst_hole02,Big pit
+task_break_obst_hole02,Remove the pit
+,
+title_break_obst_bigstone,Boulder
+task_break_obst_bigstone,Break the boulder
+,
+,
+title_build_bridge01,Wooden bridge
+task_build_bridge01,Repair the bridge
+,
+title_build_bridge02,Bridge
+task_build_bridge02,Repair the bridge
+,
+title_build_bridge03,Stone bridge
+task_build_bridge03,Repair the bridge
+,
+,
+title_build_farm01,Farm lvl.1
+task_build_farm01,Build a lvl.1 farm
+,
+title_build_farm02,Farm lvl.2
+task_build_farm02,Build a lvl.2 farm
+,
+title_build_farm03,Farm lvl.3
+task_build_farm03,Build a lvl.3 farm
+,
+,
+title_build_sawmill01,Sawmill lvl.1
+task_build_sawmill01,Build a lvl.1 sawmill
+,
+title_build_sawmill02,Sawmill lvl.2
+task_build_sawmill02,Build a lvl.2 sawmill
+,
+title_build_sawmill03,Sawmill lvl.3
+task_build_sawmill03,Build a lvl.3 sawmill
+,
+,
+title_build_quarry01,Quarry lvl.1
+task_build_quarry01,Build a lvl.1 quarry
+,
+title_build_quarry02,Quarry lvl.2
+task_build_quarry02,Build a lvl.2 quarry
+,
+title_build_quarry03,Quarry lvl.3
+task_build_quarry03,Build a lvl.3 quarry
+,
+,
+title_build_goldmine01,Gold mine lvl.1
+task_build_goldmine01,Build a lvl.1 gold mine
+,
+title_build_goldmine02,Gold mine lvl.2
+task_build_goldmine02,Build a lvl.2 gold mine
+,
+title_build_goldmine03,Gold mine lvl.3
+task_build_goldmine03,Build a lvl.3 gold mine
+,
+,
+title_build_tent01,Tent
+task_build_tent01,Build a lvl.2 tent
+,
+title_build_tent02,Tent
+task_build_tent02,Build a lvl.3 tent
+,
+,
+title_kill_cyclop,Cyclop
+task_kill_cyclop,Defeat the cyclop
+,
+title_kill_minotaur,Minotaur
+task_kill_minotaur,Defeat the minotaur
+,
+title_break_trap01,Trap
+task_break_trap01,Break the trap
+,
+title_take_papirus,Papirus
+task_take_papirus,Collect the papirus
+,
+title_use_switch01,Level
+task_use_switch01,Toggle the lever
+,
+title_take_tooth,Tooth
+task_take_tooth,Get the tooth
+,
+title_kill_ghost,Ghost
+task_kill_ghost,Defeat the ghost
+,
+title_build_portal,Portal
+task_build_portal,Activate the portal
+,
+title_grow_bush,Bush
+task_grow_bush,Grow the bush
+,
+title_build_torch01,Torch
+task_build_torch01,Light the torch
+,
+title_take_key,Key
+task_take_key,Get the key
+,
+title_break_barricade,Barricade
+task_break_barricade,Break the barricade
+,
+title_break_trap02,Trap
+task_break_trap02,Set free Medea
+,
+title_break_friks_home01,House of Phrixus
+task_break_friks_home01,Storm the house
+,
+title_call_dragon_home01,Dragon's house
+task_call_dragon_home01,Ring the doorbell
+,
+title_trade_marketplace01,Market
+task_trade_marketplace01,Exchange resources
+,
+title_trade_marketplace02,Market
+task_trade_marketplace02,Exchange resources
+,
+title_trade_marketplace03,Market
+task_trade_marketplace03,Exchange resources
+,
+title_build_port,Port
+task_build_port,Build the port
+,
+title_build_altar,Altar
+task_build_altar,Activate the altar
+,
+title_take_altar,Altar
+task_take_altar,Use the altar
+,
+title_build_oracle_tower01,Oracle Tower
+task_build_oracle_tower01,Restore the oracle tower
+,
+title_build_oracle_tower02,Oracle Tower
+task_build_oracle_tower02,Restore the oracle tower
+,
+title_build_peliashouse,Pelias' House
+task_build_peliashouse,Reach Pelias' house
+,
+title_build_portalbig01,Large Portal
+task_build_portalbig01,Restore the large portal
+,
+title_build_portalbig02,Large Portal
+task_build_portalbig02,Restore the large portal
+,
+title_take_gem01,Crystal
+task_take_gem01,Take the crystal
+,
+title_call_house,House
+task_call_house,Ring the doorbell
+,
+menu_btn_play,Play
+menu_btn_credits,Credits
+menu_btn_exit,Quit
+menu_btn_settings,Settings
+menu_btn_change_player,Change player
+menu_extras_btn,EXTRAS
+menu_extras_concepts,Concept Art
+menu_extras_soundtrack,Music
+menu_extras_levels,Additional campaign
+menu_lbl_welcome,"Welcome, {0}"
+menu_lbl_player_name_title,Enter player name
+menu_lbl_player_name_placeholder,Enter here…
+menu_lbl_player_change_title,Change player
+menu_lbl_remove_player_warning,Are you sure you want to delete the player?
+menu_lbl_player_exist,Player name already exists!
+menu_lbl_player_name_empty,Player name not entered!
+menu_lbl_cant_remove_last_player,You can't delete last player!
+menu_lbl_confirm_exit,Are you sure you want to quit?
+menu_lbl_warning_build_broken,Some files are corrupt.<br>The game may not run.<br>Please reinstall the game.
+,
+mode_title,Select the game mode. <br> (You can change the game mode at any time).
+mode_untimed_title,UNTIMED
+mode_normal_title,NORMAL
+mode_hard_title,HARD
+,
+menu_lbl_credits,Credits
+menu_lbl_credits1,Anton Argunov
+menu_lbl_credits2,Arthur Klopov
+menu_lbl_credits3,Yaroslav Pankratov
+menu_lbl_credits4,Victoria Sadovskaya
+menu_lbl_credits5,Siarhei Rydkin
+menu_lbl_credits6,Yulia Rydkina
+menu_lbl_credits7,Rodion Kadulin
+,
+map_only_for_ce,Only for Collector's Edition.
+,
+gui_btn_cancel,Cancel
+gui_btn_create,Create
+gui_btn_ok,Ok
+gui_btn_yes,Yes
+gui_btn_no,No
+gui_btn_continue,Continue
+gui_btn_restart,Restart
+gui_btn_replay,Replay
+gui_btn_settings,Settings
+gui_btn_map,Map
+gui_btn_menu,Menu
+gui_lbl_music_volume,Music volume
+gui_lbl_sound_volume,Sound volume
+gui_lbl_hints,Hints
+gui_lbl_fullscreen,Fullscreen
+gui_lbl_system_cursor,System cursor
+gui_lbl_settings,Settings
+gui_lbl_loading,Loading...
+gui_lbl_pause,Pause
+gui_lbl_restart_request,Are you sure you want to restart?
+gui_lbl_go_map_request,Are you sure you want to go to the map?
+gui_lbl_go_menu_request,Are you sure you want to exit to the menu?
+gui_lbl_start_level_tip,Press to start
+gui_lbl_level_number,Level {0}
+gui_lbl_finish_panel_title,Excellent
+gui_lbl_time,Time
+gui_lbl_best_time,Best time
+gui_lbl_need_resources,Need:
+gui_lbl_income_resources,Give:
+gui_lbl_not_enough_resources,No resources
+gui_lbl_score,Result
+gui_lbl_best_score,Best result
+gui_lbl_demo,Thank you for playing demo version
+gui_lbl_campaign_locked,Additional campaign can be unlocked after finishing the game.
+gui_app_version,Version:
+,
+award_builder_1_name,Apprentice
+award_builder_1_desc,Construct {0} buildings
+award_builder_2_name,Builder
+award_builder_2_desc,Construct {0} buildings
+award_builder_3_name,Architect
+award_builder_3_desc,Construct {0} buildings
+,
+award_collector_1_name,Collector
+award_collector_1_desc,Collect all trophies
+,
+award_food_1_name,Gatherer
+award_food_1_desc,Collect {0} units of food
+award_food_2_name,Farmer
+award_food_2_desc,Collect {0} units of food
+award_food_3_name,Planter
+award_food_3_desc,Collect {0} units of food
+,
+award_gold_1_name,Gold-digger
+award_gold_1_desc,Collect {0} units of gold
+award_gold_2_name,Gold-prospector
+award_gold_2_desc,Collect {0} units of gold
+award_gold_3_name,Gold-miner
+award_gold_3_desc,Collect {0} units of gold
+,
+award_obstacles_1_name,Cleaner
+award_obstacles_1_desc,Remove {0} obstacles
+award_obstacles_2_name,Skillful cleaner
+award_obstacles_2_desc,Remove {0} obstacles
+award_obstacles_3_name,Excellent cleaner
+award_obstacles_3_desc,Remove {0} obstacles
+,
+award_reader_1_name,Reader
+award_reader_1_desc,Read all comics
+,
+award_stars_1_name,Pupil
+award_stars_1_desc,Complete {0} levels with 3 stars
+award_stars_2_name,Master
+award_stars_2_desc,Complete {0} levels with 3 stars
+award_stars_3_name,Expert
+award_stars_3_desc,Complete ALL levels with 3 stars
+,
+award_stone_1_name,Stonecutter
+award_stone_1_desc,Collect {0} units of stone
+award_stone_2_name,Experienced stonecutter
+award_stone_2_desc,Collect {0} units of stone
+award_stone_3_name,Stonecutter-master
+award_stone_3_desc,Collect {0} units of stone
+,
+award_trader_1_name,Dealer
+award_trader_1_desc,Conclude {0} deals on the market
+award_trader_2_name,Trader
+award_trader_2_desc,Conclude {0} deals on the market
+award_trader_3_name,Merchant
+award_trader_3_desc,Conclude {0} deals on the market
+,
+award_victory_1_name,Recruit
+award_victory_1_desc,Defeat {0} enemies
+award_victory_2_name,Brave warrior
+award_victory_2_desc,Defeat {0} enemies
+award_victory_3_name,Fearless general
+award_victory_3_desc,Defeat {0} enemies
+,
+award_wood_1_name,Woodcutter
+award_wood_1_desc,Collect {0} units of wood
+award_wood_2_name,Skillful lumberjack
+award_wood_2_desc,Collect {0} units of wood
+award_wood_3_name,Woodcut master
+award_wood_3_desc,Collect {0} units of wood
+,
+,
+hint_1_1,Gather food
+hint_1_2,Clear the blockage
+hint_1_3,Gather food and wood
+hint_1_4,Fix bridge
+hint_1_5,Collect gold and clear the bush
+,
+hint_2_1,Gather food from the bush
+hint_2_2,You should build a farm<br>to produce food
+hint_2_3,You should build a sawmill<br>to produce wood
+hint_2_4,Now is a good time to build a tent<br>to increase available workers
+hint_2_5,You should build a quarry<br>to mine stone
+hint_2_6,You should build a gold mine<br>to mine gold
+,
+hint_3_1,Now is a good time to build a tent<br>to increase available workers
+,
+hint_4_1,Activate the bonus and your characters<br>will move 2x faster!
+,
+hint_6_1,The market is open!<br>Now you can trade resources!
+,
+hint_10_1,You activated the bridge to the other side!<br>Now you have a new path available!
+,
+hint_11_1,Activate the bonus and your<br>characters will do everything 2x faster!
+,
+hint_12_1,The Altar restores all your bonuses!
+,
+hint_17_1,Activate the bonus and your workers will each<br>gather +1 resources!
+,
+hint_21_1,You activated a portal!<br>You have a new path available!
+,
+hint_31_1,Light torches to light up the cave!
+,
+,
+cutscene_1_1,"The morning at the Argonauts agency began as usual – quiet and steady. Jason and Medea were counting up their takings for the week, when suddenly… The door opened with a crash, and a man bandaged up like an Egyptian mummy came in head over heels, his crutches flying. A miniature stormcloud hung over the uninvited guest's head, releasing a downpour."
+cutscene_1_2,"The surprise visitor turned out to be the artifact collector Pelias, a man not unknown in the town, and an honorary uncle of Medea. After struggling to his feet, Pelias begged for help and literally dragged the friends to his mansion."
+cutscene_1_3,"On the way to the mansion, Pelias said that while digging around in his storeroom, he happened to drop a box, and then he started having serious trouble. Jason and Medea could see how much trouble once they arrived. A snowstorm raged on one side of the mansion, and a thunderstorm on the other. Part of the mansion had been destroyed by a meteor shower."
+cutscene_1_4,"After fighting their way through to the storeroom, Jason and Medea examined the box that Pelias dropped. The label read ""Pandora's Box"", and lower down, ""DO NOT OPEN!"" Now they could all see where all Pelias' trouble had come from."
+cutscene_1_5,"After a discussion, our heroes decided to go to the oracle to find out how to drive the pandemonium back into Pandora's box and close it."
+,
+cutscene_2_1,"Finally, Jason and Medea reached the oracle's house. At first glance, neither the old man nor his dilapidated tower made them feel as if an oracle stood before them. But there was no choice, and our heroes told the oracle about the open Pandora's Box and the disaster wrought on Pelias."
+cutscene_2_2,"According to the oracle, in order to return all Pelias' troubles to Pandora's Box and lock them away, many good deeds must be done. And the oracle was so kind as to provide a list of deeds, starting with ""...Restore the oracle's tower…"" Our heroes could do nothing but roll up their sleeves and start working through the tasks on the list."
+,
+cutscene_3_1,"As Jason and Medea suspected, the list of good deeds had nothing to do with Pandora's Box. The old man was just using them. But the oracle calmed the angered friends. He told them that Pandora's Box cannot be closed, and the troubles will follow only the one who possesses the box. This meant that all that need be done was to send the box to Aid's kingdom, where it would do nobody any harm."
+cutscene_3_2,"The oracle told the friends how to get to the entrance to Aid's kingdom. The entrance was in deep caves far in the mountains. To send Pandora's Box there, two portals had to be constructed: one at the entrance to Aid's kingdom, the other at Pelias' house. Crystals had to be put in the portals… It all sounds so simple…"
+,
+cutscene_4_1,"Jason and Medea finally reached the entrance to the caves. They heard the voices of shadows and ghosts that promised them terrible suffering. There was a moment when our heroes almost turned back, but then they overcame their fears and bravely strode onward..!"
+,
+cutscene_5_1,"After getting out of the caves on the other side of the mountain range, our heroes went home to set up the portal at Pelias' house. By all appearances, Pandora's Box was bringing more and more trouble. While the friends were travelling, a drought struck, and the green plain turned into a desert. Hordes of monsters filled the area and drew closer and closer to Pelias' house."
+,
+cutscene_6_1,"Pandora's Box, as if alive, was resisting the journey to Aid's kingdom. All the power of the elements descended on Jason. Wind howled and tried to bowl the hero over, rain poured into his eyes to stop him seeing where he put his feet. But none of it worked, and Jason managed to reach the portal anyway."
+cutscene_6_2,"It worked! Jason threw Pandora's Box into the portal! That very moment, all the monsters disappeared, the stormcloud evaporated from above Pelias' head, and all the weather anomalies fled his home. And long-awaited silence descended…"
+cutscene_6_3,"Throughout all the trouble, Pelias' entire household fled all over the district. They couldn't return, since the monsters were still there wandering the plain. Pelias asked our heroes to find his household and bring them home. Our friends agreed to help."
+,
+cutscene_7_1,Jason and Medea managed to return Pelias' frightened household to the mansion. They all quickly repaired it. Peace and quiet was finally here…
+cutscene_7_2,"But what's this?! A new box has arrived at Pelias' house! It didn't take long for his household to scatter, and our friends all cried ""What?! Again?!!""…"
+,
+appname_premium,Argonauts Agency: Pandora's Box
+appname_premium_ce,Argonauts Agency: Pandora's Box Collector's Edition
+appname_freemium,Argonauts Agency: Pandora's Box Free
+,
+screenshots_img_01_menu,Close Pandora's Box!
+screenshots_img_02_map,60 fun diverse levels!
+screenshots_img_03_world01,"Collect resources, overcome obstacles, complete fun tasks!"
+screenshots_img_04_world02,Visit all the islands!
+screenshots_img_05_world03,Challenge mountain peaks!
+screenshots_img_06_world04,Explore mysterious caves!
+screenshots_img_07_world05,Discover the wonders of the desert!
+screenshots_img_08_trophies,Earn prizes for beating levels!
+,
+marketing_txt_5,Close Pandora's Box!
+marketing_txt_60,Argonaut Agency – close Pandora's Box!
+marketing_txt_80,Argonaut Agency – discover incredible adventures with Pandora's Box!
+marketing_txt_125,Argonaut Agency – chaos has emerged from Pandora's Box! Only you can stop the apocalypse!
+,
+marketing_txt_4000,"One clear sunny morning, peace at the Argonaut Agency was disrupted. A famous collector arrived suddenly with trouble on his heels. He asked for help in solving a problem with one of his artifacts. As it turned out, Pelias had accidentally opened Pandora's Box in his storeroom. Now a real cataclysm was forming above his home, and picking up speed, and Pelias himself was being followed by all the trouble and disaster of the world. Something had to be done about Pandora's Box at once!
+
+Join the argonauts and help them rid the world of Pandora's Box!
+
+- dozens of exciting levels
+- a fun plot, colorful comics, memorable characters
+- a multitude of different quests
+- enthralling gameplay
+- beautiful and colorful graphics
+- relaxing music"
+,
+game_bonus_charactermovespeed,Speeds up characters by 10%
+game_bonus_characterworkspeed,Speeds up characters' work by 10%
+game_bonus_buildscost,Buildings cost 25% less
+game_bonus_twoworkers,2 workers at once in the tent
+game_bonus_market,The market provides 1 more resources
+game_bonus_enemycost,Monsters cost 25% less
+game_bonus_levelbonuscooldown,Bonuses recharge 10% faster
+game_bonus_levelbonusduration,Bonuses last 10% longer
+game_bonus_panel_title,Guess where the prize is!
+game_bonus_hint01,Pick up the prize!
+game_bonus_hint02,These are your temporary bonuses. They disappear over time. Bonuses will be active as you play through levels.
+,
+,
+map_btn_our_games,Our games
+shop_txt_title,UNLOCK LEVEL
+shop_txt_body_watch,View an ad to unlock a level ({0}/{1})
+shop_txt_body_unlock,Unlock all levels {0}
+shop_txt_body_restore,Restore Purchases
+windowrate_txt_header,Rate us!
+windowrate_txt_description,Do you like the game? Tell about it by giving us 5 stars
+windowrate_btn_under5stars,1-4 stars
+windowrate_btn_5stars,5 stars
+windowrecall_txt_header,Feedback
+windowrecall_btn_send,Send

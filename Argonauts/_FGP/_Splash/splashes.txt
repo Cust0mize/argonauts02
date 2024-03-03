@@ -1,0 +1,5 @@
+{"splashes":
+[
+	{"pic":"workroom7.png","time":4,"clickable":1}
+]
+}

@@ -1,0 +1,13 @@
+launch_type=1
+cheats=0
+trophies=1
+all_levels=1
+language=de
+copyright=
+MPC_build=0
+FGP_build=0
+MRG_build=0
+GT_build=0
+FGD_build=0
+bfg_survey=0
+bfg_collector=1

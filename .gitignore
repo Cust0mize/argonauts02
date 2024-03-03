@@ -1,0 +1,64 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+UnityGenerated/
+Library/
+Build/
+Builds/
+.vs/
+Logs/
+UserSettings/
+
+# ===================================== #
+# Editor App                            #
+# ===================================== #
+*.app
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.pidb.meta
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+
+LevelEditor/*.svd
+LevelEditor/*.userprefs
+LevelEditor/*.csproj
+LevelEditor/*.pidb
+LevelEditor/*.pidb.meta
+LevelEditor/*.suo
+LevelEditor/*.sln
+LevelEditor/*.user
+LevelEditor/*.unityproj
+LevelEditor/*.booproj
+
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+.Trashes
+ehthumbs.db
+Thumbs.db
+Builds
+Argonauts/.vs/Argonauts/xs/UserPrefs.xml
+Argonauts/.vs/Argonauts/xs/sqlite3/db.lock
+Argonauts/.vs/Argonauts/xs/sqlite3/storage.ide
+Argonauts/.vs/Argonauts/xs/sqlite3/storage.ide-shm
+Argonauts/.vs/Argonauts/xs/sqlite3/storage.ide-wal
+LevelEditor/.vs/LevelEditor/xs/UserPrefs.xml
+LevelEditor/.vs/LevelEditor/xs/sqlite3/db.lock
+LevelEditor/.vs/LevelEditor/xs/sqlite3/storage.ide
+LevelEditor/.vs/LevelEditor/xs/sqlite3/storage.ide-shm
+LevelEditor/.vs/LevelEditor/xs/sqlite3/storage.ide-wal

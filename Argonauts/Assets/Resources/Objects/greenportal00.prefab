@@ -1,0 +1,214 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1336989600507974}
+  m_IsPrefabAsset: 1
+--- !u!1 &1336989600507974
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4275476370972906}
+  - component: {fileID: 212538183015944420}
+  - component: {fileID: 61743125854435310}
+  - component: {fileID: 114884801884752278}
+  - component: {fileID: 210702174614447594}
+  m_Layer: 0
+  m_Name: greenportal00
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1594400770704502
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4730540445865776}
+  m_Layer: 0
+  m_Name: work_point 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4275476370972906
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1336989600507974}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -93.6, y: 23.958702, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4730540445865776}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4730540445865776
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1594400770704502}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.7, y: -53.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4275476370972906}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &61743125854435310
+BoxCollider2D:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1336989600507974}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.000015258789, y: -3.0455627}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 118, y: 130}
+    newSize: {x: 138, y: 128}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 110.247635, y: 123.908875}
+  m_EdgeRadius: 0
+--- !u!114 &114884801884752278
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1336989600507974}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1aced7da7bc2412abc9ce768990693b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  LayerObject:
+    Name: 
+    PointIDs: []
+    Position: {x: 0, y: 0}
+    Path: 
+    Flip: 0
+    SpecialPointsID: []
+    JoinObjectsIDs: []
+  KeyAction: act_build_portal
+  RequiredResources: []
+  ActionStage: 4
+  OffsetPanelsTop: {x: 0, y: 60}
+  OffsetPanelsRight: {x: 60, y: 0}
+  OffsetPanelsBot: {x: 0, y: -60}
+  OffsetPanelsLeft: {x: -60, y: 0}
+  CountStages: 1
+  WaitingWorkers: 0
+  SendedCharacters: []
+  orderCounts: 0
+  MultiplyWorkers: 0
+  MaxMultiplyWorkers: 0
+  flagprefab: {fileID: 1034769838855050, guid: db4c309d3a91f3547a908589ae426e47, type: 2}
+  checkmarkprefab: {fileID: 1214486290992296, guid: a24849816385b2d478e0c5ace026f95e,
+    type: 2}
+  workbarprefab: {fileID: 1436381153908846, guid: db9d3add03b24f244b209ccde341119f,
+    type: 2}
+  offsetWorkBar: {x: 0, y: 75}
+  workPointsForeverFree: 1
+  effectUsePrefab: {fileID: 0}
+  effectOnEndUse: {fileID: 1556724213524862, guid: 8ef1a9eea94cc4abdbbfff9aa0b00436,
+    type: 2}
+  Clickable: 1
+  Node:
+    Position: {x: 0, y: 0}
+    IsFree: 0
+  Available: 0
+  CanPing: 1
+  WorkPoints:
+  - {fileID: 1594400770704502}
+  OccupiedPoints: []
+  buildingDuration: 3
+  iconAvailableUpgradeBar: {fileID: 0}
+  BuildObjectController: {fileID: 0}
+  Upgrade: 0
+  MirrorPortalController: {fileID: 0}
+  activateVfx: {fileID: 1868078590586554, guid: 9ef14053db587402ead2298012655c7e,
+    type: 2}
+  PortalKey: act_build_greenportal01
+--- !u!210 &210702174614447594
+SortingGroup:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1336989600507974}
+  m_Enabled: 1
+  m_SortingLayerID: 986333103
+  m_SortingLayer: -1
+  m_SortingOrder: 0
+--- !u!212 &212538183015944420
+SpriteRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1336989600507974}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 0
+  m_ReflectionProbeUsage: 0
+  m_RenderingLayerMask: 4294967295
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300000, guid: d485e08872e7444c2880e8603ef546aa, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 138, y: 128}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0

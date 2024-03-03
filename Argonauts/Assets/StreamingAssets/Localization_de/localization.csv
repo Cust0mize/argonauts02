@@ -1,0 +1,446 @@
+ID,DE
+title_take_food,Essen
+task_take_food,Sammle Essen
+,
+title_take_wood,Holz
+task_take_wood,Sammle Holz
+,
+title_take_stone,Stein
+task_take_stone,Sammle Steine
+,
+title_take_gold,Gold
+task_take_gold,Sammle Gold
+,
+title_take_bush,Busch
+task_take_bush,Sammle Essen
+,
+,
+title_break_obst_wood01,Kleine Blockade
+task_break_obst_wood01,Räum die Blockade aus dem Weg
+,
+title_break_obst_wood02,Blockade
+task_break_obst_wood02,Räum die Blockade aus dem Weg
+,
+title_break_obst_wood03,Große Blockade
+task_break_obst_wood03,Räum die Blockade aus dem Weg
+,
+title_break_obst_stone01,Kleiner Fels
+task_break_obst_stone01,Räum den Fels ab
+,
+title_break_obst_stone02,Fels
+task_break_obst_stone02,Räum den Fels ab
+,
+title_break_obst_stone03,Großer Fels
+task_break_obst_stone03,Räum den Fels ab
+,
+title_break_obst_swamp01,Sumpf
+task_break_obst_swamp01,Bau eine Brücke
+,
+title_break_obst_sand01,Düne
+task_break_obst_sand01,Räum die Düne ab
+,
+title_break_obst_bush01,Trockener Busch
+task_break_obst_bush01,Lass den Busch verschwinden
+,
+title_break_obst_hole01,Kleine Grube
+task_break_obst_hole01,Lass die Grube verschwinden
+,
+title_break_obst_hole02,Große Grube
+task_break_obst_hole02,Lass die Grube verschwinden
+,
+title_break_obst_bigstone,Brocken
+task_break_obst_bigstone,Räum den Brocken ab
+,
+,
+title_build_bridge01,Holzbrücke
+task_build_bridge01,Reparier die Brücke
+,
+title_build_bridge02,Brücke
+task_build_bridge02,Reparier die Brücke
+,
+title_build_bridge03,Steinbrücke
+task_build_bridge03,Reparier die Brücke
+,
+,
+title_build_farm01,"Bauernhof, Stufe 1"
+task_build_farm01,Bau einen Bauernhof der Stufe 1
+,
+title_build_farm02,"Bauernhof, Stufe 2"
+task_build_farm02,Bau einen Bauernhof der Stufe 2
+,
+title_build_farm03,"Bauernhof, Stufe 3"
+task_build_farm03,Bau einen Bauernhof der Stufe 3
+,
+,
+title_build_sawmill01,"Sägemühle, Stufe 1"
+task_build_sawmill01,Bau eine Sägemühle der Stufe 1
+,
+title_build_sawmill02,"Sägemühle, Stufe 2"
+task_build_sawmill02,Bau eine Sägemühle der Stufe 2
+,
+title_build_sawmill03,"Sägemühle, Stufe 3"
+task_build_sawmill03,Bau eine Sägemühle der Stufe 3
+,
+,
+title_build_quarry01,"Steinbruch, Stufe 1"
+task_build_quarry01,Bau einen Steinbruch der Stufe 1
+,
+title_build_quarry02,"Steinbruch, Stufe 2"
+task_build_quarry02,Bau einen Steinbruch der Stufe 2
+,
+title_build_quarry03,"Steinbruch, Stufe 3"
+task_build_quarry03,Bau einen Steinbruch der Stufe 3
+,
+,
+title_build_goldmine01,"Goldmine, Stufe 1"
+task_build_goldmine01,Bau eine Goldmine der Stufe 1
+,
+title_build_goldmine02,"Goldmine, Stufe 2"
+task_build_goldmine02,Bau eine Goldmine der Stufe 2
+,
+title_build_goldmine03,"Goldmine, Stufe 3"
+task_build_goldmine03,Bau eine Goldmine der Stufe 3
+,
+,
+title_build_tent01,Zelt
+task_build_tent01,Bau ein Zelt der Stufe 2
+,
+title_build_tent02,Zelt
+task_build_tent02,Bau ein Zelt der Stufe 3
+,
+,
+title_kill_cyclop,Zyklop
+task_kill_cyclop,Besieg den Zyklop
+,
+title_kill_minotaur,Minotaurus
+task_kill_minotaur,Besieg den Minotaurus
+,
+title_break_trap01,Falle
+task_break_trap01,Setz die Falle außer Kraft
+,
+title_take_papirus,Papyrus
+task_take_papirus,Sammle den Papyrus
+,
+title_use_switch01,Hebel
+task_use_switch01,Leg den Hebel um
+,
+title_take_tooth,Zahn
+task_take_tooth,Hol dir den Zahn
+,
+title_kill_ghost,Geist
+task_kill_ghost,Besieg den Geist
+,
+title_build_portal,Portal
+task_build_portal,Aktivier das Portal
+,
+title_grow_bush,Busch
+task_grow_bush,Lass den Busch wachsen
+,
+title_build_torch01,Fackel
+task_build_torch01,Lass die Fackel brennen
+,
+title_take_key,Schlüssel
+task_take_key,Hol dir den Schlüssel
+,
+title_break_barricade,Barrikade
+task_break_barricade,Räum die Barrikade ab
+,
+title_break_trap02,Falle
+task_break_trap02,Befrei Medea
+,
+title_break_friks_home01,Haus des Phrixos
+task_break_friks_home01,Stürm das Haus
+,
+title_call_dragon_home01,Drachenhaus
+task_call_dragon_home01,Klingel an
+,
+title_trade_marketplace01,Markt
+task_trade_marketplace01,Tausch Ressourcen
+,
+title_trade_marketplace02,Markt
+task_trade_marketplace02,Tausch Ressourcen
+,
+title_trade_marketplace03,Markt
+task_trade_marketplace03,Tausch Ressourcen
+,
+title_build_port,Hafen
+task_build_port,Bau den Hafen
+,
+title_build_altar,Altar
+task_build_altar,Aktivier den Altar
+,
+title_take_altar,Altar
+task_take_altar,Benutz den Altar
+,
+title_build_oracle_tower01,Orakelturm
+task_build_oracle_tower01,Restaurier den Orakelturm
+,
+title_build_oracle_tower02,Orakelturm
+task_build_oracle_tower02,Restaurier den Orakelturm
+,
+title_build_peliashouse,Pelias' Haus
+task_build_peliashouse,Erreich Pelias' Haus
+,
+title_build_portalbig01,Großes Portal
+task_build_portalbig01,Restaurier das Große Portal
+,
+title_build_portalbig02,Großes Portal
+task_build_portalbig02,Restaurier das Große Portal
+,
+title_take_gem01,Kristall
+task_take_gem01,Nimm den Kristall
+,
+title_call_house,Haus
+task_call_house,Klingel an
+,
+menu_btn_play,Spielen
+menu_btn_credits,Mitwirkende
+menu_btn_exit,Beenden
+menu_btn_settings,Einstellungen
+menu_btn_change_player,Spieler wechseln
+menu_extras_btn,EXTRAS
+menu_extras_concepts,Konzeptgrafik
+menu_extras_soundtrack,Musik
+menu_extras_levels,Zusätzliche kampagne
+menu_lbl_welcome,"Willkommen, {0}"
+menu_lbl_player_name_title,Spielername eingeben
+menu_lbl_player_name_placeholder,Hier eingeben …
+menu_lbl_player_change_title,Spieler wechseln
+menu_lbl_remove_player_warning,Möchtest du den Spieler wirklich löschen?
+menu_lbl_player_exist,Spielernamen gibt es schon!
+menu_lbl_player_name_empty,Kein Spielername eingegeben!
+menu_lbl_cant_remove_last_player,Du kannst den letzten Spieler nicht löschen!
+menu_lbl_confirm_exit,Möchtest du wirklich schon aufhören?
+menu_lbl_warning_build_broken,Ein paar Dateien sind defekt.<br>Das Spiel läuft eventuell nicht.<br> Bitte installier das Spiel neu.
+,
+mode_title,Wähle den Spielmodus. <br> (Sie können den Spielmodus jederzeit ändern).
+mode_untimed_title,KEINE ZEIT
+mode_normal_title,NORMAL
+mode_hard_title,HART
+,
+menu_lbl_credits,Mitwirkende
+menu_lbl_credits1,Anton Argunov
+menu_lbl_credits2,Arthur Klopov
+menu_lbl_credits3,Yaroslav Pankratov
+menu_lbl_credits4,Victoria Sadovskaya
+menu_lbl_credits5,Siarhei Rydkin
+menu_lbl_credits6,Yulia Rydkina
+menu_lbl_credits7,Rodion Kadulin
+,
+map_only_for_ce,Nur für die Sammleredition.
+,
+gui_btn_cancel,Abbrechen
+gui_btn_create,Erstellen
+gui_btn_ok,OK
+gui_btn_yes,Ja
+gui_btn_no,Nein
+gui_btn_continue,Fortsetzen
+gui_btn_restart,Neustart
+gui_btn_replay,Nochmal spielen
+gui_btn_settings,Einstellungen
+gui_btn_map,Karte
+gui_btn_menu,Menü
+gui_lbl_music_volume,Musiklautstärke
+gui_lbl_sound_volume,Effektlautstärke
+gui_lbl_hints,Tipps
+gui_lbl_fullscreen,Vollbild
+gui_lbl_system_cursor,Systemcursor
+gui_lbl_settings,Einstellungen
+gui_lbl_loading,Laden …
+gui_lbl_pause,Pause
+gui_lbl_restart_request,Möchtest du wirklich neu starten?
+gui_lbl_go_map_request,Möchtest du wirklich zur Karte?
+gui_lbl_go_menu_request,Möchtest du wirklich beenden und zurück zum Menü?
+gui_lbl_start_level_tip,Zum Starten drücken
+gui_lbl_level_number,Level {0}
+gui_lbl_finish_panel_title,Exzellent
+gui_lbl_time,Zeit
+gui_lbl_best_time,Bestzeit
+gui_lbl_need_resources,Bedarf:
+gui_lbl_income_resources,Ergibt:
+gui_lbl_not_enough_resources,Keine Ressourcen
+gui_lbl_score,Ergebnis
+gui_lbl_best_score,Bestes Ergebnis
+gui_lbl_demo,Vielen Dank für die Demoversion
+gui_lbl_campaign_locked,Zusätzliche Kampagne kann nach Beendigung des Spiels freigeschaltet werden.
+gui_app_version,Version:
+,
+award_builder_1_name,Lehrling
+award_builder_1_desc,Bau {0} Gebäude
+award_builder_2_name,Bauarbeiter
+award_builder_2_desc,Bau {0} Gebäude
+award_builder_3_name,Architekt
+award_builder_3_desc,Bau {0} Gebäude
+,
+award_collector_1_name,Sammler
+award_collector_1_desc,Sammle alle Trophäen
+,
+award_food_1_name,Raffzahn
+award_food_1_desc,Sammle {0} mal Essen
+award_food_2_name,Bauer
+award_food_2_desc,Sammle {0} mal Essen
+award_food_3_name,Pflanzer
+award_food_3_desc,Sammle {0} mal Essen
+,
+award_gold_1_name,Goldwäscher
+award_gold_1_desc,Sammle {0} mal Gold
+award_gold_2_name,Goldsucher
+award_gold_2_desc,Sammle {0} mal Gold
+award_gold_3_name,Goldgräber
+award_gold_3_desc,Sammle {0} mal Gold
+,
+award_obstacles_1_name,Putzer
+award_obstacles_1_desc,Räum {0} Hindernisse weg
+award_obstacles_2_name,Profiputzer
+award_obstacles_2_desc,Räum {0} Hindernisse weg
+award_obstacles_3_name,Meisterputzer
+award_obstacles_3_desc,Räum {0} Hindernisse weg
+,
+award_reader_1_name,Leser
+award_reader_1_desc,Lies alle Comics
+,
+award_stars_1_name,Schüler
+award_stars_1_desc,Schaff {0} Level mit 3 Sternen
+award_stars_2_name,Meister
+award_stars_2_desc,Schaff {0} Level mit 3 Sternen
+award_stars_3_name,Experte
+award_stars_3_desc,Schaff ALLE Level mit 3 Sternen
+,
+award_stone_1_name,Steinmetz
+award_stone_1_desc,Sammle {0} mal Steine
+award_stone_2_name,Profisteinmetz
+award_stone_2_desc,Sammle {0} mal Steine
+award_stone_3_name,Meistersteinmetz
+award_stone_3_desc,Sammle {0} mal Steine
+,
+award_trader_1_name,Verkäufer
+award_trader_1_desc,Schließ {0} Geschäfte auf dem Markt ab
+award_trader_2_name,Händler
+award_trader_2_desc,Schließ {0} Geschäfte auf dem Markt ab
+award_trader_3_name,Großhändler
+award_trader_3_desc,Schließ {0} Geschäfte auf dem Markt ab
+,
+award_victory_1_name,Rekrut
+award_victory_1_desc,Schlag {0} Feinde
+award_victory_2_name,Tapferer Krieger
+award_victory_2_desc,Schlag {0} Feinde
+award_victory_3_name,Furchtloser General
+award_victory_3_desc,Schlag {0} Feinde
+,
+award_wood_1_name,Holzschnitzer
+award_wood_1_desc,Sammle {0} mal Holz
+award_wood_2_name,Forstarbeiter
+award_wood_2_desc,Sammle {0} mal Holz
+award_wood_3_name,Meisterschnitzer
+award_wood_3_desc,Sammle {0} mal Holz
+,
+,
+hint_1_1,Sammle Essen
+hint_1_2,Räum die Blockade aus dem Weg
+hint_1_3,Sammle Essen und Holz
+hint_1_4,Reparier die Brücke
+hint_1_5,Sammle Gold und beseitige den Busch
+,
+hint_2_1,Sammle Essen aus dem Busch
+hint_2_2,"Bau einen Bauernhof,<br>damit es was auf die Gabel gibt."
+hint_2_3,"Bau eine Sägemühle,<br>damit es gut Holz gibt."
+hint_2_4,"Jetzt wäre es Zeit für ein Zelt,<br>damit mehr Arbeiter für dich schuften können."
+hint_2_5,"Du solltest einen Steinbruch bauen,<br>damit du Stein-reich wirst."
+hint_2_6,Du solltest eine Goldmine bauen<br>und reichlich Gold aus der Erde holen.
+,
+hint_3_1,"Jetzt wäre es Zeit für ein Zelt,<br>damit mehr Arbeiter für dich schuften können."
+,
+hint_4_1,Aktivier den Bonus – schon bewegen sich deine Leute<br>doppelt so schnell!
+,
+hint_6_1,Der Markt ist eröffnet!<br>Jetzt kannst du Ressourcen tauschen!
+,
+hint_10_1,Du hast die Brücke zur anderen Seite aktiviert!<br>Jetzt gibt es einen neuen Weg!
+,
+hint_11_1,Aktivier den Bonus – schon erledigen deine Leute <br>alles doppelt so schnell!
+,
+hint_12_1,Der Altar stellt all deine Boni wieder her!
+,
+hint_17_1,Aktivier den Bonus – schon sammeln deine Arbeiter<br>1 Ressource mehr!
+,
+hint_21_1,Du hast ein Portal aktiviert!<br>Jetzt gibt es einen neuen Weg!
+,
+hint_31_1,"Zünd Fackeln an, damit es in der Höhle hell wird!"
+,
+,
+cutscene_1_1,"Der Morgen in der Argonautenagentur begann wie üblich – ziemlich ruhig und ziemlich langweilig. Jason und Medea zählten gerade die kläglichen Einnahmen der Woche zusammen, als plötzlich … Die Tür mit einem Knall aufflog, gleich darauf ein wie eine ägyptische Mumie bandagierter Mann wie ein Wirbelwind hereinstürmte; mit fliegenden Krücken. Über dem Kopf des ungebetenen Gastes hing eine Minigewitterwolke, aus der es auch noch schüttete."
+cutscene_1_2,"Der Überraschungsgast entpuppte sich als der Artefaktsammler Pelias, nicht ganz unbekannt in der Stadt, zusätzlich noch Ehrenonkel von Medea. Nachdem er wieder auf die Beine gekommen war, flehte Pelias unsere Helden um Hilfe an, zerrte sie förmlich hinter sich her, bis sie an seinem Landhaus ankamen."
+cutscene_1_3,"Auf dem Weg zum Landhaus erklärte Pelias atemlos, dass er beim Herumkramen in seinem Lager eine Kiste fallengelassen hatte. Und damit begann eine grandiose Pechsträhne. Als Jason und Medea am Landhaus ankamen, mussten Sie erkennen, dass „grandiose Pechsträhne“ noch gewaltig untertrieben war. Ein Schneesturm wütete auf einer Seite des Landhauses, ein gewaltiges Gewitter auf der anderen. Obendrein war ein beträchtlicher Teil des Landhauses einem handelsüblichen Meteorschauer zum Opfer gefallen."
+cutscene_1_4,"Nachdem Sie sich bis ins Lager vorgekämpft hatten, untersuchten Jason und Medea zunächst die Kiste, die Pelias dusseligerweise fallengelassen hatte. „Büchse der Pandora“ stand auf dem Etikett, „BLOSS NICHT AUFMACHEN!“ gleich darunter. Jetzt dämmerte ihnen langsam, was es mit Pelias' Pechsträhne so auf sich hatte."
+cutscene_1_5,"Nach einer kurzen, aber heftigen Diskussion entschieden sich unsere Helden dazu, das örtliche Orakel aufzusuchen. Dort wollten sie nachfragen, wie sich das Chaos wieder in die Büchse der Pandora zurücklocken und verlässlich wieder daran einsperren ließ."
+,
+cutscene_2_1,"Endlich langten Jason und Medea beim amtlichen Orakel an. Auf den ersten Blick sahen weder der alte Mann noch sein abbruchreifer Turm nach einem waschechten Orakel aus. Aber da gerade kein besseres Orakel zur Hand war, berichteten unsere Helden dem Orakelmann vom versehentlichen Öffnen der Büchse der Pandora und dem Unglück, das Pelias fortan heimsuchte."
+cutscene_2_2,"Das Orakel verkündete daraufhin, dass es einer Menge guter Taten bedürfe, um sämtliche Heimsuchungen Pelias' wieder in die Büchse der Pandora zurückzudrängen und in alle Zeiten unter Verschluss zu halten. Das Orakel war so selbstlos, den beiden sogar eine Liste mit guten Taten mitzugeben, die erstaunlicherweise mit „Restaurier den Orakelturm“ begann. Was blieb unseren Helden da schon übrig, als die Ärmel hochzukrempeln und die Aufgaben aus der Liste abzuarbeiten …"
+,
+cutscene_3_1,"Wie Jason und Medea schon befürchteten, hatte die Gute-Taten-Liste rein gar nichts mit Pandoras Büchse zu tun. Der alte Mann wollte sie offenbar schlicht ausnutzen. Das Orakel aber ließ sich zu einer Erklärung herab, die die leicht angesäuerten Freunde etwas besänftigte. Er gab zu, dass sich die Büchse der Pandora nicht mehr schließen ließ, das Unheil aber nur über den kam, der die Büchse tatsächlich besaß. Und das bedeutete, dass man die Büchse einfach ins Königreich des Aid verfrachten müsse – da würde sie keinen Schaden mehr anrichten."
+cutscene_3_2,"Das Orakel verriet unseren Freunden auch, wie man zum Eingang des Aid-Reiches gelangen konnte. Dummerweise lag dieser in abgrundtiefen Höhlen, weit entfernt in den Bergen. Um die Büchse der Pandora dort hin zu bekommen, müssten zwei Portale konstruiert werden: eins am Eingang des Aid-Reiches, das andere bei Pelias' Haus. Die Portale müssten noch schnell mit Kristallen bestückt werden … Alles gaaanz einfach …"
+,
+cutscene_4_1,"Nach einigen Irrungen erreichten Jason und Medea endlich den Eingang zu den Höhlen. Dort erwarteten sie flüsternde Stimmen von Schatten und Geistern, die ihnen fürchterliche Qualen androhten. Sogleich wollten sich unsere Helden heldenhaft zur Flucht wenden, überlegten es sich dann aber noch einmal anders und schritten mutig voran!"
+,
+cutscene_5_1,"Als sie das Höhlenlabyrinth auf der anderen Seite des Bergmassivs wieder verließen, machten sich unsere Helden gleich nachhause auf – schließlich galt es, das Portal bei Pelias zu errichten. Es sah schwer danach aus, als hätte Pandoras Büchse noch deutlich mehr Unheil auf der Pfanne. Unterwegs kam plötzlich eine unglaubliche Dürre über das Land, die vormals grüne Ebene verwandelte sich in eine staubtrockene Wüste. Ganze Horden von Monstern fielen in das Gebiet ein, schlichen sich langsam, aber sicher an Pelias' Haus heran."
+,
+cutscene_6_1,"Die Büchse der Pandora wehrte sich nach Kräften gegen ihre Reise zum Aid-Reich. Jason bekam die ganze Macht der Elemente zu spüren. Der Wind heulte wie die Posaunen von Jericho, versuchte unseren Helden von den Füßen zu reißen, Regenfluten klatschten in seine Augen, um ihn mit nasser Gewalt vom rechten Wege abzubringen. Aber Jason zeigte sich zäh wie Kruppwindhundstahlleder, kämpfte sich allen Widrigkeiten zum Trotz bis zum Portal vor."
+cutscene_6_2,"Es klappte! Jason schmiss Pandoras Büchse in das Portal! Schlagartig verschwanden sämtliche Monster, die Gewitterwolke über Pelias' Kopf löste sich in Wohlgefallen auf, auch die Wetterphänomene entfleuchten im Handumdrehen. Himmlische Ruhe kehrte ein …"
+cutscene_6_3,"Dummerweise hatte Pelias' gesamtes Hauspersonal zwischenzeitlich die Flucht ergriffen, sich überall in der Gegend verteilt. Ihnen war der Rückweg abgeschnitten, da die Monster immer noch in der Ebene lauerten. Kleinlaut bat Pelias unsere Helden, seine Leute aufzuspüren und wieder nachhause zu bringen. Natürlich konnten unsere Freunde (wieder mal) nicht Nein sagen."
+,
+cutscene_7_1,"Jason und Medea schafften es, Pelias' eingeschüchtertes Hauspersonal wieder heil zum Landhaus zu bringen. Nach kurzer Zeit waren auch alle nötigen Reparaturen erledigt. Ruhe und Frieden kehrten endlich ein …"
+cutscene_7_2,"Aber was ist das?! Ein paar Tage später bekam Pelias eine neue Kiste geliefert! Danach dauerte es nicht lange, bis sich das Hauspersonal wieder Hals über Kopf in alle Winde zerstreute. „WAS ? NICHT SCHON WIEDER!!“"
+,
+appname_premium,Argonauts Agency: Pandora's Box
+appname_premium_ce,Argonauts Agency: Pandora's Box Sammleredition
+appname_freemium,Argonauts Agency: Pandora's Box Free
+,
+screenshots_img_01_menu,Schließ die Büchse der Pandora!
+screenshots_img_02_map,"60 tolle, abwechslungsreiche Level!"
+screenshots_img_03_world01,"Sammle Ressourcen, bewältige Hindernisse, meistere spannende Aufgaben!"
+screenshots_img_04_world02,Besuch alle Inseln!
+screenshots_img_05_world03,Stürm die Berggipfel!
+screenshots_img_06_world04,Erforsch geheimnisvolle Höhlen!
+screenshots_img_07_world05,Lüfte die Geheimnisse der Wüste!
+screenshots_img_08_trophies,Hol dir Preise fürs Meistern kniffliger Level!
+,
+marketing_txt_5,Schließ die Büchse der Pandora!
+marketing_txt_60,Argonautenagentur – schließ die Büchse der Pandora!
+marketing_txt_80,Argonautenagentur – besteh unglaubliche Abenteuer mit Pandoras Büchse!
+marketing_txt_125,"Argonautenagentur – das Chaos regiert, die Büchse der Pandora steht weit offen! Nur du kannst die Apokalypse noch aufhalten!"
+,
+marketing_txt_4000,"Eines schönen Morgens brach das Chaos über den beschaulichen Alltag in der Argonautenagentur herein. Ein bekannter Sammler hetzte heran, mit reichlich Ärger im Gepäck. Es gäbe da ein kleines Problemchen mit einem seiner Artefakte, er könne ein wenig Hilfe gebrauchen. Pelias, der Sammler, hatte aus Versehen die Büchse der Pandora geöffnet, die unschuldig in seinem Lager herumlag. Nun tobten gewaltige Naturkatastrophen rund um sein Haus, Pelias selbst wurde von sämtlichen Unglücken und Schicksalsschlägen verfolgt, die man sich nur vorstellen konnte. Die Büchse der Pandora musste unbedingt entschärft werden, am besten gestern!
+
+Schließ dich den Argonauten an, hilf mit, die Welt von Pandoras Büchse zu befreien!
+
+- Dutzende Level voller Spaß und Spannung!
+- Witzige Geschichte, kunterbunte Comics, tolle Charaktere
+
+- Unzählige abwechslungsreiche Missionen
+- Packendes Gameplay
+- Starke Grafik
+- Gute Musik"
+,
+game_bonus_charactermovespeed,Charaktere bewegen sich 10 % schneller
+game_bonus_characterworkspeed,Charaktere arbeiten 10 % schneller
+game_bonus_buildscost,Gebäude kosten 25 % weniger
+game_bonus_twoworkers,2 Arbeiter auf einmal im Zelt
+game_bonus_market,Es gibt 1 weitere Ressource auf dem Markt
+game_bonus_enemycost,Monster kosten 25 % weniger
+game_bonus_levelbonuscooldown,Boni laden sich 10 % schneller auf
+game_bonus_levelbonusduration,Boni halten 10 % länger
+game_bonus_panel_title,"Rate mal, wo der Preis steckt!"
+game_bonus_hint01,Schnapp dir den Preis!
+game_bonus_hint02,"Dies sind temporäre Boni, die also mit der Zeit verschwinden. Boni werden aktiv, wenn du dich durch die Level kämpfst."
+,
+,
+map_btn_our_games,Unsere Spiele
+shop_txt_title,LEVEL FREISCHALTEN
+shop_txt_body_watch,"Anzeigen anzeigen, um ein Level freizuschalten ({0}/{1})"
+shop_txt_body_unlock,Schalte alle Level frei {0}
+shop_txt_body_restore,Käufe Wiederherstellen
+windowrate_txt_header,Bewerten Sie uns!
+windowrate_txt_description,"Gefällt Ihnen das Spiel? Erzählen Sie uns davon, indem Sie uns 5 Sterne geben"
+windowrate_btn_under5stars,1-4 Sterne
+windowrate_btn_5stars,5 Sterne
+windowrecall_txt_header,Feedback
+windowrecall_btn_send,Absenden

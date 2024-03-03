@@ -1,0 +1,13 @@
+launch_type=3
+cheats=0
+trophies=1
+all_levels=1
+language=en
+copyright=Copyright © 2018 FreeGamePick.com, "Workroom7 LLC"
+MPC_build=0
+FGP_build=1
+MRG_build=0
+GT_build=0
+FGD_build=0
+bfg_survey=0
+bfg_collector=1
